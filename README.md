@@ -1,6 +1,8 @@
 # MaxFace
 Pebble watchface which shows as maximum information as possible for a simple watch
 
+[Download](/MaxFace.pbw?raw=true) Pbw compatible with all Pebble watches except round
+
 ## Key features:
 * Digital clock with date
 * Current weather
@@ -18,8 +20,5 @@ Pebble watchface which shows as maximum information as possible for a simple wat
 <img width="300" alt="Settings 2" src="Settings2.png?raw=true">
 <img width="300" alt="Settings 3" src="Settings3.png?raw=true">
 <img width="300" alt="Settings 4" src="Settings4.png?raw=true">
-
-## Executable
-[Download Pbw compatible with all Pebble watches except round](/MaxFace.pbw?raw=true)
 
 Original code is taken from https://github.com/SeaPea/ForeCal/
