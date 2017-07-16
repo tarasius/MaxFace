@@ -14,10 +14,10 @@ Pebble watchface which shows as maximum information as possible for a simple wat
 ![Alt Screenshot](/screenshot.png?raw=true "Screenshot")
 
 ### Settings
-![Alt Settings 1](/Settings1.png?raw=true "Settings 1")
-![Alt Settings 2](/Settings1.png?raw=true "Settings 2")
-![Alt Settings 3](/Settings1.png?raw=true "Settings 3")
-![Alt Settings 4](/Settings1.png?raw=true "Settings 4")
+<img width="300" alt="Settings 1" src="Settings1.png?raw=true">
+<img width="300" alt="Settings 2" src="Settings2.png?raw=true">
+<img width="300" alt="Settings 3" src="Settings3.png?raw=true">
+<img width="300" alt="Settings 4" src="Settings4.png?raw=true">
 
 ## Executable
 [Download Pbw compatible with all Pebble watches except round](/MaxFace.pbw?raw=true)
