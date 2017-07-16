@@ -5,6 +5,6 @@ Pebble watchface which shows as maximum information as possible for a simple wat
 ![Alt Screenshot](/screenshot.png?raw=true "Screenshot")
 
 ## Executable
-[Download GPathEditor](/MaxFace.pbw?raw=true)
+[Download Pbw compatible with all Pebble watches except round](/MaxFace.pbw?raw=true)
 
 Original code is taken from https://github.com/SeaPea/ForeCal/
